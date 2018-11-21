@@ -1,0 +1,4 @@
+agents:
+- name: "oper-flume"
+  enabled: true
+  hosts: ["http://xxxx:10000/metrics"]
